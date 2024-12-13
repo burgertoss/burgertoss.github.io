@@ -1,6 +1,6 @@
 # burgertoss.github.io
 <html>
 	<body>
-		Hello! This is the first page!
+		This is README page
 	</body>
 </html>
