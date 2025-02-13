@@ -1,1 +1,1 @@
-# [page1](https://burgertoss.github.io/banding.github.io/index.html)
+# https://burgertoss.github.io/banding.github.io/index.html
