@@ -6,4 +6,4 @@ layout: default
 
 내용
 
-[돌아가기](./)
+[돌아가기]({{ site.baseurl }}/)
